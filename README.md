@@ -4,7 +4,3 @@
 
 ## Summary
 This repository contains all the notes taken by [Ryan](https://github.com/ryanc337) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
-
-[Ryan](https://github.com/ryanc337)
-
-[Lighthouse Labs](https://www.lighthouselabs.ca/)
