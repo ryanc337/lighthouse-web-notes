@@ -3,7 +3,7 @@
 ###### This is an H6 header (smallest)
 
 ## Summary
-This repository contains all the notes taken by Ryan for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all the notes taken by [Ryan](https://github.com/ryanc337) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
 
 [Ryan](https://github.com/ryanc337)
 
